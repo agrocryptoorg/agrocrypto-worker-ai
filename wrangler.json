@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/index.ts",
-  "name": "agrocrypto-worker-ai",
+  "name": "agrocrypto-voice-portal",
   "upload_source_maps": true,
   "ai": {
     "binding": "AI"
